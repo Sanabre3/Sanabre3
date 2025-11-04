@@ -68,7 +68,27 @@ Estudo e pratico todos os dias com o objetivo de dominar **do front ao back**, e
 - Código limpo é código vivo.
 - Pequenos passos todos os dias.
 - Aprender, aplicar e compartilhar.
+```
 
-##📬 Conecte-se comigo
+---
 
-><p align="center"> <a href="mailto:sanabre02@hotmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+## 📈 Minhas Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=douglassanabre&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassanabre&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Conecte-se comigo
+
+<p align="center">
+  <a href="mailto:sanabre02@hotmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<h3 align="center">🔥 “A constância é o que transforma o iniciante em profissional.” 🔥</h3>
