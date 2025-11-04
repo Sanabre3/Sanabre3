@@ -70,14 +70,23 @@ Estudo e pratico todos os dias com o objetivo de dominar **do front ao back**, e
 - Aprender, aplicar e compartilhar.
 ```
 
+
 ---
 
 ## 📈 Minhas Estatísticas
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=douglassanabre&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglassanabre&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanabre3&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanabre3&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🔥 Streak de Contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanabre3&theme=radical&border_radius=5" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -86,9 +95,10 @@ Estudo e pratico todos os dias com o objetivo de dominar **do front ao back**, e
 <p align="center">
   <a href="mailto:sanabre02@hotmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sanabre3" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <h3 align="center">🔥 “A constância é o que transforma o iniciante em profissional.” 🔥</h3>
+
