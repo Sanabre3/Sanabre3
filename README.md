@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">🚀 Douglas Sanabre — Full Stack Developer em Formação</h1>
 
-<!--
-**Sanabre3/Sanabre3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>"Disciplina vence talento — quando o talento não se disciplina."</em>  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+Sou o **Douglas Sanabre**, um desenvolvedor **Full Stack em aprendizado contínuo**, movido por **disciplina, foco e consistência diária**.  
+Estudo e pratico todos os dias com o objetivo de dominar **do front ao back**, entregando projetos funcionais, organizados e com código limpo.
+
+---
+
+## 🧠 Stack Atual
+
+| Área | Tecnologias |
+|------|--------------|
+| **Frontend** | HTML • CSS • JavaScript • React • Next.js • TailwindCSS |
+| **Backend** | Node.js • Express • NestJS • Prisma |
+| **Banco de Dados** | PostgreSQL • MySQL • MongoDB |
+| **DevOps** | Docker • GitHub Actions • AWS (básico) |
+| **Boas Práticas** | Clean Code • REST API • Git Flow |
+
+---
+
+## 📊 Nível de Conhecimento
+
+| Tecnologia | Progresso |
+|-------------|------------|
+| HTML / CSS | 🟩🟩🟩🟩⬜ (Intermediário) |
+| JavaScript | 🟩🟩🟩⬜⬜ (Em evolução) |
+| React / Next.js | 🟩🟩⬜⬜⬜ (Aprendendo) |
+| Node.js / Express | 🟩🟩🟩⬜⬜ (Em prática) |
+| Banco de Dados | 🟩🟩⬜⬜⬜ (Aprendendo) |
+
+---
+
+## 📚 Rotina de Aprendizado
+
+💡 **Estudo todos os dias**, intercalando teoria e prática.  
+🧩 **Desenvolvo pequenos projetos** para testar novos conceitos.  
+📈 **Reviso códigos antigos** para melhorar lógica e estrutura.  
+🤝 **Troco ideias com a comunidade dev** e busco feedback constante.  
+
+---
+
+## 🛠️ Projetos em Desenvolvimento
+
+| Projeto | Descrição | Status |
+|----------|------------|--------|
+| **ToDo Full Stack App** | Aplicação CRUD com autenticação JWT e banco de dados. | 🚧 Em andamento |
+| **API de Catálogo** | API REST para cadastro e consulta de produtos. | ✅ Concluído |
+| **Portfólio Pessoal** | Site moderno apresentando meus projetos e jornada dev. | 🧱 Em construção |
+
+---
+
+## 🎯 Objetivo Atual
+
+> Dominar o **ecossistema JavaScript** — React no front, Node no back — e construir aplicações completas, performáticas e escaláveis.
+
+---
+
+## ⚡ Filosofia de Código
+
+```text
+- Código limpo é código vivo.
+- Pequenos passos todos os dias.
+- Aprender, aplicar e compartilhar.
+📬 Conecte-se comigo
+<p align="center"> <a href="mailto:sanabre02@hotmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/douglassanabre" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
