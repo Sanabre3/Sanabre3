@@ -82,10 +82,10 @@ Estudo e pratico todos os dias com o objetivo de dominar **do front ao back**, e
 
 ---
 
-## 🔥 Streak de Contribuições
+### 🔥 Streak de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanabre3&theme=radical&border_radius=5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanabre3&theme=radical&border_radius=5" alt="GitHub Streak" />
 </div>
 
 ---
