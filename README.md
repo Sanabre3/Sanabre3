@@ -88,6 +88,7 @@ Estudo e pratico todos os dias com o objetivo de dominar **do front ao back**, e
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanabre3&theme=react-dark&area=true&hide_border=true" alt="Gráfico de atividades de Douglas Sanabre" />
 </div>
 
+
 ---
 
 ## 📬 Conecte-se comigo
