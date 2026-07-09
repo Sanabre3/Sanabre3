@@ -122,7 +122,7 @@ Sou o **Douglas Sanabre** (`Sanabre3`), desenvolvedor **Full Stack em aprendizad
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Sanabre3&theme=radical&hide_border=true" alt="Streak Stats" />
+<img src="https://sanabre-streak-stats.vercel.app/?user=Sanabre3&theme=radical&hide_border=true" alt="Streak Stats" />
 
 <br/>
 
