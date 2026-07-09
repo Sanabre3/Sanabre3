@@ -117,8 +117,8 @@ Sou o **Douglas Sanabre** (`Sanabre3`), desenvolvedor **Full Stack em aprendizad
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sanabre3&show_icons=true&theme=radical" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanabre3&layout=compact&theme=radical&langs_count=8" />
+<img height="180em" src="https://sanabre-readme-stats.vercel.app/api?username=Sanabre3&show_icons=true&theme=radical&cache_seconds=86400" />
+<img height="180em" src="https://sanabre-readme-stats.vercel.app/api/top-langs/?username=Sanabre3&layout=compact&theme=radical&langs_count=8&cache_seconds=86400" />
 
 <br/>
 
