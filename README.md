@@ -7,7 +7,7 @@
 </p>
 
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Dispon%C3%ADvel%20para%20projetos-2ea043?style=for-the-badge" />
-<img src="https://img.shields.io/badge/%F0%9F%93%8D%20Niter%C3%B3i,%20RJ-1f6feb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20S%C3%A3o%20Gon%C3%A7alo,%20RJ-1f6feb?style=for-the-badge" />
 
 <br/><br/>
 
