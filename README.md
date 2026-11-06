@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/%F0%9F%8F%A0%20Remoto%20ou%20h%C3%ADbrido-2ea043?style=for-the-badge" />
 
 <br/><br/>
+
 <a href="https://www.linkedin.com/in/douglassanabre/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Sanabre3"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:douglasnx2014@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -37,6 +38,21 @@ Sou o **Douglas Sanabre** (`Sanabre3`), desenvolvedor **Full Stack** em São Gon
 Mostra, para quem não é técnico, **quem são os agentes de IA de uma empresa, o que cada um faz e onde estão os riscos**, numa sala isométrica em pixel art. Tem o modo **Casos**, que lista o que precisa de revisão, onde o fluxo travou e a linha do tempo de cada atendimento. Eu faço o front-end (Next.js, Canvas 2D); o back-end está sendo feito em parceria.
 
 **Demonstração:** [fluxo-agentes.vercel.app](https://fluxo-agentes.vercel.app) · todos os dados são de exemplo.
+
+### 🤖 Mascote Agente (Heimdall)
+<img src="assets/heimdall.gif" width="150" align="right" alt="Heimdall, o mascote do meu agente pessoal" />
+
+Meu agente pessoal: um **app para Windows** com uma cabecinha 3D no canto da tela, que roda **local** e me ajuda no dia a dia.
+
+- **Mensagens:** confere WhatsApp (local, sem enviar resposta), e-mail e Slack.
+- **Dev:** acompanha GitHub e Render, entre outras integrações.
+- **Rotina:** cria tarefas, lembra de prazos e anota reuniões.
+- **Aparências:** troca de skins, inclusive entre usuários.
+- **Aprendizado:** vai aprendendo o meu jeito com o uso.
+
+Ela só prepara: **nada é enviado sem eu aprovar**. O cérebro é a IA que eu escolho (Claude, ChatGPT, Gemini), e as atualizações chegam por um servidor próprio na Cloudflare. Já existe uma versão para instalar, distribuída por convite; ainda não publiquei o projeto aqui no GitHub. O Heimdall é a aparência pessoal dela: criação original minha, com o modelo 3D feito no Meshy.
+
+<br clear="right"/>
 
 ### 🎮 Estúdio Sanabre
 Portfólio 3D explorável (Vite e Three.js), com um samurai feito em Python e Blender e uma personagem criada com Meshy e TRELLIS. **Em breve online.**
