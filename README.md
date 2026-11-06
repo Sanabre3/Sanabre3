@@ -35,7 +35,7 @@ Sou o **Douglas Sanabre** (`Sanabre3`), desenvolvedor **Full Stack** em São Gon
 ## 🚀 Em destaque
 
 ### 🏢 Sala dos Agentes
-Mostra, para quem não é técnico, **quem são os agentes de IA de uma empresa, o que cada um faz e onde estão os riscos**, numa sala isométrica em pixel art. Tem o modo **Casos**, que lista o que precisa de revisão, onde o fluxo travou e a linha do tempo de cada atendimento. Eu faço o front-end (Next.js, Canvas 2D); o back-end é do [Pedro Vitório](https://www.linkedin.com/in/pedrovitorio-dados/).
+Mostra, para quem não é técnico, **quem são os agentes de IA de uma empresa, o que cada um faz e onde estão os riscos**, numa sala isométrica em pixel art. Tem o modo **Casos**, que lista o que precisa de revisão, onde o fluxo travou e a linha do tempo de cada atendimento. Eu faço o front-end (Next.js, Canvas 2D); o back-end está sendo feito em parceria.
 
 **Demonstração:** [fluxo-agentes.vercel.app](https://fluxo-agentes.vercel.app) · todos os dados são de exemplo.
 
@@ -59,9 +59,9 @@ Portfólio 3D explorável (Vite e Three.js), com um samurai feito em Python e Bl
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threejs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
-![VTEX CX Platform](https://img.shields.io/badge/VTEX%20CX%20Platform-F71963?style=for-the-badge&logo=vtex&logoColor=white)
+![VTEX CX Platform](https://img.shields.io/badge/VTEX%20CX%20Platform-F71963?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
