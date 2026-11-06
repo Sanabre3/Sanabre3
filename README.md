@@ -37,6 +37,8 @@ Sou o **Douglas Sanabre** (`Sanabre3`), desenvolvedor **Full Stack** em São Gon
 ### 🏢 Sala dos Agentes
 Mostra, para quem não é técnico, **quem são os agentes de IA de uma empresa, o que cada um faz e onde estão os riscos**, numa sala isométrica em pixel art. Tem o modo **Casos**, que lista o que precisa de revisão, onde o fluxo travou e a linha do tempo de cada atendimento. Eu faço o front-end (Next.js, Canvas 2D); o back-end está sendo feito em parceria.
 
+<a href="https://fluxo-agentes.vercel.app"><img src="assets/sala-dos-agentes.jpg" width="460" alt="Sala dos Agentes: sala isométrica em pixel art com os agentes de IA" /></a>
+
 **Demonstração:** [fluxo-agentes.vercel.app](https://fluxo-agentes.vercel.app) · todos os dados são de exemplo.
 
 ### 🤖 Mascote Agente (Heimdall)
@@ -50,12 +52,14 @@ Meu agente pessoal: um **app para Windows** com uma cabecinha 3D no canto da tel
 - **Aparências:** troca de skins, inclusive entre usuários.
 - **Aprendizado:** vai aprendendo o meu jeito com o uso.
 
-Ela só prepara: **nada é enviado sem eu aprovar**. O cérebro é a IA que eu escolho (Claude, ChatGPT, Gemini), e as atualizações chegam por um servidor próprio na Cloudflare. Já existe uma versão para instalar, distribuída por convite; ainda não publiquei o projeto aqui no GitHub. O Heimdall é a aparência pessoal dela: criação original minha, com o modelo 3D feito no Meshy.
+Ela só prepara: **nada é enviado sem eu aprovar**. O cérebro é a IA que eu escolho (Claude, ChatGPT, Gemini), e as atualizações chegam por um servidor próprio na Cloudflare. Já existe uma versão para instalar, distribuída por convite; ainda não publiquei o projeto aqui no GitHub. O Heimdall é a aparência pessoal dela: personagem criado por mim, com o modelo 3D feito no Meshy.
 
 <br clear="right"/>
 
 ### 🎮 Estúdio Sanabre
 Portfólio 3D explorável (Vite e Three.js), com um samurai feito em Python e Blender e uma personagem criada com Meshy e TRELLIS. **Em breve online.**
+
+<img src="assets/estudio-sanabre.jpg" width="460" alt="Estúdio Sanabre: portfólio 3D com samurai e personagem em cenário explorável" />
 
 ---
 
