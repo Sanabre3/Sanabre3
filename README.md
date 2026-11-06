@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/%F0%9F%8F%A0%20Remoto%20ou%20h%C3%ADbrido-2ea043?style=for-the-badge" />
 
 <br/><br/>
-
 <a href="https://www.linkedin.com/in/douglassanabre/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Sanabre3"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="mailto:douglasnx2014@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
